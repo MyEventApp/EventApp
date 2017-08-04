@@ -1,0 +1,41 @@
+{
+  "name": "event",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.3",
+    "flexboxgrid": "^6.3.1",
+    "jquery": "^3.2.1",
+    "material-ui": "^0.18.6",
+    "mssql": "^4.0.4",
+    "mysql": "^2.13.0",
+    "react": "^15.6.1",
+    "react-bootstrap-date-picker": "^5.0.1",
+    "react-bootstrap-datetimepicker": "0.0.22",
+    "react-bootstrap-time-picker": "^1.0.3",
+    "react-bootstrap-timezone-picker": "^1.0.11",
+    "react-collapse": "^4.0.2",
+    "react-dom": "^15.6.1",
+    "react-dropzone": "^3.13.3",
+    "react-motion": "^0.5.0",
+    "react-swipeable-views": "^0.12.3",
+    "react-tinymce": "^0.5.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "react-bootstrap": "^0.31.0",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "react-scripts": "1.0.7",
+    "react-swipeable-views": "^0.12.3",
+    "react-tap-event-plugin": "^2.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
